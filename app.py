@@ -31,7 +31,7 @@ expected_columns = [
 
 st.title("🏎️ Car Value Predictor")
 st.markdown("Enter the specifications of the vehicle below.")
-st.divider()
+
 
 with st.form("car_specs_form"):
     
